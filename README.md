@@ -17,7 +17,7 @@ The main Objective is to design a cutting-edge Machine Learning Model that effec
 4. Analyze job market trends - Identify employment patterns and demands.
 5. Increase job matching efficiency - Connect candidates with suitable positions.
 
-##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+## User's Manual:
 
 | Files/Folder        | Description                                                                                   |
 |---------------------|-----------------------------------------------------------------------------------------------|
@@ -31,7 +31,7 @@ The main Objective is to design a cutting-edge Machine Learning Model that effec
 |                     | **App:** (Final application code.)                                                              |
 
 
-## Data Description
+## Data Description:
 
 - *Jobs Table*:
 
@@ -66,7 +66,7 @@ Exp                   | Year of experience needed for the job
 HR                    | Name of HR who posted the job
  
 
-## Methodology
+## Methodology:
 
 The following methodology was used to accomplish the project objectives:
 
