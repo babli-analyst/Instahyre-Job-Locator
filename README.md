@@ -4,7 +4,7 @@
   <img src="https://github.com/divyechopra/Instahyre-Job-Analytics/assets/122443219/4d12f489-95e8-48a9-a6fc-4fabdc60c6cd" alt="WhatsApp Video 2023-07-24 at 10 15 43 AM">
 </p>
 
-## Description
+## Descriptions:
 
 The main Objective is to design a cutting-edge Machine Learning Model that effectively process user-inputted keywords encompassing job roles, skills, and desired locations. This Model will then present users with a meticulously curated selection of the most pertinent and tailored results aligning with their specific job-finding criteria. By harnessing the power of machine learning, we aim to streamline and enhance the job search experience, empowering users to discover employment opportunities that perfectly match their aspirations and qualifications.
 
