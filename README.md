@@ -97,7 +97,7 @@ The following methodology was used to accomplish the project objectives:
    
 5. _User-Friendly Interface:_ A Flask web framework introduced a search bar for users to look up skills. FuzzyBuzzy library corrected any input errors. Search results displayed the most common experience level, industry, company class related to the skill, and the number of available job opportunities.
 
-## Results
+## Results:
 
 ### 1. This webpage is designed to accept user input.
 <p align="center">
@@ -132,7 +132,7 @@ https://github.com/divyechopra/Instahyre-Job-Analytics/assets/122443219/128a105f
 - Creating a backend with Flask and returning output to a webpage.
 - Understanding the different ways to deploy the model.
 
-## References
+## References:
 
 - Python Software Foundation. (2022). Python Language Reference, version 3.10. Retrieved from https://docs.python.org/3/reference/index.html
   
