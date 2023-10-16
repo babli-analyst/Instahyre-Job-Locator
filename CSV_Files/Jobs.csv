@@ -1,0 +1,786 @@
+job_id,company_name,company_id,location,designation,detail_id
+270735,Carnera Technologies,77,Work From Home,Inside Sales ,77_270735
+270736,Carnera Technologies,77,Work From Home,Social Media ,77_270736
+272101,Concentrix,93,"Bangalore, Gurgaon, Mumbai",Sr. Analyst ,93_272101
+270555,epiFi,133,Bangalore,Relationship Manager ,133_270555
+270071,Jupiter,205,Mumbai,Growth Manager ,205_270071
+270076,Jupiter,205,Bangalore,Product Marketing ,205_270076
+271146,NxtWave,289,Hyderabad,Corporate Relations Manager ,289_271146
+271149,NxtWave,289,Hyderabad,Head of Sourcing ,289_271149
+270726,Powerplay,315,Bangalore,Key Account Manager ,315_270726
+270725,Powerplay,315,Bangalore,Onboarding Specialist ,315_270725
+267703,Amazon Devices,32,Hyderabad,Content Writer ,32_267703
+267707,Amazon Devices,32,Chennai,Content Writer ,32_267707
+266323,Axis Bank,52,"Amritsar, Chennai, Delhi",Sales Manager - Portfolio ,52_266323
+268766,CarDekho,76,Mumbai,Business Manager ,76_268766
+268671,CarDekho,76,"Bathinda, Delhi, Lucknow",Business Manager ,76_268671
+268765,CarDekho,76,"Ahmedabad, Indore, Kolkata",Business Manager ,76_268765
+267411,Cogoport,89,"Gurgaon, Mumbai",Key Account Manager ,89_267411
+267403,Jupiter,205,Mumbai,Sr. Manaqger / Lead - Credit Card Operations ,205_267403
+269568,mPokket,262,"Bangalore, Kolkata",Performance Marketing - Senior Manager ,262_269568
+268362,Plivo,313,Work From Home,Associate Director - Level ,313_268362
+272515,Adaptive,15,Work From Home,Blockchain Developer,15_272515
+272510,Asentech,43,Pune,Sr. .NET Developer,43_272510
+272512,BetterPlace,58,Bangalore,Data Engineer,58_272512
+272524,D-Techworks,109,Bangalore,Dot .NET Developer,109_272524
+265683,Leena AI,225,Gurgaon,Sales Development Representative ,225_265683
+272508,Market Pulse Technologies,245,Bangalore,Social Media Manager,245_272508
+264370,MyBillBook (FloBiz),266,Bangalore,Content Creator ,266_264370
+272509,Probe CX,320,Hyderabad,BPO Pricing Analyst,320_272509
+272525,Swimlane,382,Hyderabad,Engineering Manager Dot .NET,382_272525
+272523,Swimlane,382,Hyderabad,Principal Engineer Dot .NET,382_272523
+272468,Allen Career Institute,26,Bangalore,Video Engineer,26_272468
+272483,LTIMindtree,237,Mumbai,SAP Analytics Cloud Consultant,237_272483
+272485,LTIMindtree,237,Bangalore,SAP Analytics Cloud Consultant,237_272485
+272489,Purview,325,Pune,Collibra Developer,325_272489
+272474,Purview,325,Pune,DevOps With Calypso,325_272474
+272469,Strata,379,Bangalore,Content Writer,379_272469
+272504,Symphony Talent,385,Noida,Associate Java Full Stack Developer,385_272504
+272479,Symphony Talent,385,Bangalore,Full Stack Developer,385_272479
+272465,Tredence Inc,404,Bangalore,GCP COE Lead,404_272465
+272499,VFI SLK,418,Bangalore,Software Developer,418_272499
+272455,Bidgely,61,Bangalore,Sr. Data Engineer,61_272455
+272456,Deloitte,115,Bangalore,Informatica IDQ Developer,115_272456
+272459,EY,140,Bangalore,Java Developer,140_272459
+272443,Impact Analytics,186,Bangalore,Database Engineer,186_272443
+272446,Impact Analytics,186,Bangalore,Senior Database Engineering Manager,186_272446
+272449,Kyndryl,221,Work From Home,Senior Software Engineer,221_272449
+272462,NiYO Solutions,285,Bangalore,Principal Engineer,285_272462
+272444,Proxgy,322,Gurgaon,ERP Manager,322_272444
+272458,Tredence Inc,404,Bangalore,Snowflake COE Lead,404_272458
+272463,Wipro,434,Pune,Software Developer,434_272463
+272420,Akamai,23,Bangalore,Android Developer,23_272420
+272424,Altimetrik,28,Work From Home,Business Analyst,28_272424
+272435,ANZ Bank,37,Bangalore,Cloud DevOps,37_272435
+272441,eShopbox,136,Pune,Fullstack Engineer,136_272441
+272437,GIST,156,Noida,Learning & Development Manager,156_272437
+272430,HealthAsyst,172,Bangalore,Software Engineer,172_272430
+272423,Nanonets,272,Work From Home,Account Executive,272_272423
+272442,Nelito,274,Mumbai,Mobile Application Testing,274_272442
+272428,Simplotel,363,Bangalore,Customer Success Manager,363_272428
+272409,CoreLogic,97,Noida,Sr. Advanced Software Engineer,97_272409
+272414,Critical Mass,106,Bangalore,Motion Graphic Lead,106_272414
+272416,Kotak Mahindra Bank,217,Mumbai,Product Engineering Lead,217_272416
+272418,Numadic,288,Work From Home,Software Engineer,288_272418
+272405,Oliver Wyman,293,Hyderabad,Data Engineer,293_272405
+272406,PhonePe,306,Bangalore,Software Development Engineer - Backend,306_272406
+272407,PhonePe,306,Bangalore,Software Engineer,306_272407
+272408,SpotOn,371,Bangalore,Node.js Developer - Backend,371_272408
+272419,Zetwerk,440,Bangalore,SDET,440_272419
+272391,Akribiz Business Solutions,24,Noida,Field Sales Executive,24_272391
+272399,Annalect,34,Bangalore,Technical Lead,34_272399
+272396,Capgemini,74,Pune,Sahrepoint Powerapps Developer,74_272396
+272390,CHEManager,82,Mumbai,Product Manager - Pharma,82_272390
+272393,HealthAsyst,172,Bangalore,Software Engineer,172_272393
+272388,Keka HR,208,Hyderabad,Wordpress Developer,208_272388
+272386,Mphasis,261,Bangalore,Data Engineer,261_272386
+272395,OptIQ.AI,297,Bangalore,Product Marketing Manager,297_272395
+272394,Tessell,392,Bangalore,Data Platform Engineer,392_272394
+272397,upGrad,410,Bangalore,Software Engineer - Backend Developer,410_272397
+272398,Beta Makers Lab,57,Bangalore,Architect Interior Designer,57_272398
+272400,Hiver,176,Work From Home,Software Development Engineer - 3,176_272400
+272384,AlgoShack,25,Bangalore,AWS Python Developer,25_272384
+272379,Eightfold AI,125,Bangalore,Solution Architect,125_272379
+272377,LTIMindtree,237,Bangalore,SAP Treasury Consultant,237_272377
+272378,LTIMindtree,237,Mumbai,SAP Treasury Consultant,237_272378
+272380,Mirafra Technologies,258,Hyderabad,AI Developer,258_272380
+272381,Mphasis,261,Bangalore,Test Engineer,261_272381
+272383,NiYO Solutions,285,Bangalore,Principle Engineer - Backend,285_272383
+272374,Hotstar,179,Bangalore,Senior Software Development Engineer - Data,179_272374
+272363,Lets Influence,228,Gurgaon,Brand Acquisition Manager,228_272363
+272370,LinkedIn,232,Bangalore,Java Developer,232_272370
+272364,NiYO Solutions,285,Bangalore,PE,285_272364
+272368,NiYO Solutions,285,Bangalore,Principal Engineer - Node.js,285_272368
+272375,NiYO Solutions,285,Bangalore,Principal Engineer - QA,285_272375
+272367,RSPL,342,Gurgaon,Assistant Brand Manager,342_272367
+272373,Synergy Softwares,386,Noida,PHP Developer,386_272373
+272371,Tredence Inc,404,Bangalore,Databricks COE Lead,404_272371
+272376,Tredence Inc,404,Bangalore,Presales Solution Architect,404_272376
+272347,Akribiz Business Solutions,24,Noida,Sales Manager,24_272347
+272343,Anudip Foundation,36,Patna,Senior Resident,36_272343
+272359,Bullsmart,71,Bangalore,Sales Executive,71_272359
+272361,Hitachi India,175,Bangalore,AWS DevOps Engineer,175_272361
+272353,MindTickle,257,"Bangalore, Pune",Staff ML Engineer,257_272353
+272349,MyBillBook (FloBiz),266,Bangalore,Customer Process Support - L1,266_272349
+272348,MyBillBook (FloBiz),266,Bangalore,Executive Assistant,266_272348
+272346,myTVS Accessories,269,Chennai,Head Accounts Consolidation & Statutory,269_272346
+272345,Porter,314,Kanpur,FIELD Sales Executive,314_272345
+272358,SandV Capitals,349,Hyderabad,React.js Developer,349_272358
+272333,1mg,4,Gurgaon,Senior Product Analyst,4_272333
+272338,Amazon Devices,32,Bangalore,Product Manager - Technical,32_272338
+272339,Amazon Devices,32,Bangalore,Quality Assurance Manager,32_272339
+272328,Fuel Marcom,153,Delhi,Graphic Designer,153_272328
+272336,Lokal,235,Hyderabad,Lead Sales Manager,235_272336
+272330,PixelPhant,310,Udaipur,Digital Marketing,310_272330
+272329,Pure Storage,323,Bangalore,Member of Technical Staff - 3 / 4 / 5,323_272329
+272332,SyManSys Technologies India,384,"Delhi, Gurgaon",Business Development Manager - Staffing,384_272332
+272319,AXA,51,Work From Home,webMethods Developer,51_272319
+272316,BetterPlace,58,Bangalore,Data Scientist,58_272316
+272320,Deutsche Bank,117,Bangalore,Associate Vice President - Java + GCP,117_272320
+272322,Goldcast,161,Delhi,Software Engineer,161_272322
+272326,Max Life Insurance,247,Hyderabad,Area Sales Manager,247_272326
+272325,Max Life Insurance,247,Chennai,Inside Sales Manager,247_272325
+272317,TLC Relationship Management,400,Delhi,Software Developer,400_272317
+272313,Freshworks,152,Hyderabad,Lead Software Engineer - Platforms,152_272313
+272314,Global Logics,157,Bangalore,Data Engineer,157_272314
+272308,Learning Shala,224,Delhi,Business Development Executive,224_272308
+272312,New Street Technologies,278,Bangalore,Product Manager,278_272312
+272310,New Street Technologies,278,Bangalore,Technical Project Manager,278_272310
+272311,PhysicsWallah,307,Noida,SDE3 - Frontend Developer,307_272311
+272306,ShopSe,358,Mumbai,Sr. Product Manager,358_272306
+272309,Thrillophilia,399,Jaipur,Performance Marketing Executive,399_272309
+272307,Wakefit,424,Bangalore,Data Scientist Manager,424_272307
+272315,Zetwerk,440,Bangalore,Java Developer SDE3,440_272315
+272305,Beta Makers Lab,57,Bangalore,Interior Designer,57_272305
+272299,Booming Bulls Academy,66,Gurgaon,Inside Sales Executive,66_272299
+272293,Bullspree,72,Chandigarh,Senior Backend Engineer,72_272293
+272294,Bullspree,72,Kolkata,Senior Backend Engineer,72_272294
+272295,Bullspree,72,Anand,Senior Backend Engineer,72_272295
+272303,D. E. Shaw,110,Hyderabad,Software Engineer,110_272303
+272296,Hettich India,174,Navi Mumbai,SAP Analytics Consultant,174_272296
+272302,LTIMindtree,237,Delhi,SRM Functional Consultant,237_272302
+272304,ShopSe,358,Mumbai,Sr. Product Manager,358_272304
+272301,TLC Relationship Management,400,Delhi,UI Developer,400_272301
+272281,Censius AI,80,Ahmedabad,Marketing Lead,80_272281
+272283,Creta Class,105,Bangalore,Field Sales Executive,105_272283
+272286,Expleo Group,139,Mumbai,Manual Tester,139_272286
+272289,Intuit,197,Bangalore,Senior Software Engineer,197_272289
+272284,Joveo,203,"Bangalore, Hyderabad",Data Analyst,203_272284
+272291,Loop Kitchen,236,"Bangalore, Work From Home",Full Stack Engineer Back End Focus,236_272291
+272288,Noodle.ai,287,Bangalore,Principal Engineer,287_272288
+272290,Pesto Tech,305,Work From Home,Senior Fullstack Developer,305_272290
+272282,Revlitix,338,Bangalore,Lead Software Engineer - Backend,338_272282
+272292,Wipro,434,Bangalore,Node.js Developer - Lead,434_272292
+272279,Censius AI,80,Ahmedabad,Sales Lead,80_272279
+272271,CHEManager,82,Mumbai,Product Manager,82_272271
+272267,Happay,166,Bangalore,Enterprise Sales Manager,166_272267
+272273,Hiver,176,Bangalore,Senior Product Manager,176_272273
+272278,Komprise,216,Bangalore,SDET,216_272278
+272265,Ninja Van,283,Hyderabad,Senior Data Engineer,283_272265
+272280,Planview,311,Bangalore,Cloudops Engineer,311_272280
+272274,Shiprocket,356,Gurgaon,DevOps Engineer,356_272274
+272266,Squarepoint Capital,376,Bangalore,Software Developer C++,376_272266
+272270,Wipro,434,Gurgaon,Lead Engineer,434_272270
+272257,Antier Solutions,35,Chandigarh,Presales Consultant,35_272257
+272263,Awign,50,Chennai,React Developer,50_272263
+272255,Epsilon,134,Bangalore,Lead Data Analyst,134_272255
+272258,Epsilon,134,Bangalore,Senior System Administrator,134_272258
+272262,Jar,198,Bangalore,Senior Data Analyst,198_272262
+272256,PeakAlpha Investment Services,302,Bangalore,Assistant Manager PR&Marketing,302_272256
+272261,Squarepoint Capital,376,Bangalore,Platform Specialist - Database,376_272261
+272264,Squarepoint Capital,376,Bangalore,Platform Specialist - Windows and Virtualization,376_272264
+272260,Squarepoint Capital,376,Bangalore,Python Developer - SRE,376_272260
+272254,Squarepoint Capital,376,Bangalore,Site Reliability Engineer,376_272254
+272247,12th Wonder,1,Pune,DOT .NET Developer,1_272247
+272253,Agivant Technologies,21,Pune,GCP Data Engineer,21_272253
+272252,Amazon Ads,31,Gurgaon,Senior SDE,31_272252
+272245,Bullspree,72,Noida,Senior Software Engineer,72_272245
+272242,Creditnama,103,Delhi,NestJS Developer,103_272242
+272239,Koantek,214,Work From Home,Data Engineer,214_272239
+272251,LTIMindtree,237,Bangalore,Apigee Admin,237_272251
+272248,NiYO Solutions,285,Bangalore,SRE 3,285_272248
+272249,THOUGHTi,397,Work From Home,Dotnet Developer,397_272249
+272243,World Compliance Technologies,437,Delhi,NestJS Developer Node.js,437_272243
+272231,Bhash Software Labs,60,Bangalore,Business Development - Team Leader,60_272231
+272227,Bidgely,61,Bangalore,Sr. Data Engineer,61_272227
+272232,Creditnama,103,Delhi,Lead NestJS Developer,103_272232
+272233,CS Soft Solutions,107,Work From Home,Node.js Developer,107_272233
+272237,Licious,230,Bangalore,Software Development Engineer 2 - Backend,230_272237
+272236,Light & Wonder,231,Chennai,Lead Animator,231_272236
+272228,NiYO Solutions,285,Bangalore,Principal Engineer QA,285_272228
+272230,Quick Visa Solutions,327,Gurgaon,Immigration Sales Consultant,327_272230
+272235,Spinny,370,Gurgaon,QA Engineer,370_272235
+272215,Acheron Software Consultancy,12,Hyderabad,Angular Developer,12_272215
+272218,Acheron Software Consultancy,12,Hyderabad,Angular Full Stack Developer,12_272218
+272225,Cars24,78,Gurgaon,Data Scientist,78_272225
+272222,Gallagher and Mohan,155,Work From Home,Accountant,155_272222
+272217,iMumz,187,Bangalore,Category Manager,187_272217
+272216,Navi Technologies,273,Bangalore,Software Development Engineer 2,273_272216
+272221,Symphony Talent,385,Noida,Full Stack Developer,385_272221
+272220,Vymo,423,Bangalore,Technical Lead,423_272220
+272203,Bosch India,67,Bangalore,MLOps Engineer,67_272203
+272209,Etelligens Technologies,137,Greater Noida,Salesforce Consultant,137_272209
+272206,Financial Software And Systems,145,Work From Home,Switch Support Manager,145_272206
+272211,Happay,166,Bangalore,Enterprise Sales Manager - Expense Management,166_272211
+272207,ModMed,260,Hyderabad,Technical Lead - Java,260_272207
+272204,Pibit.ai,308,Bangalore,Sr. Backend Engineer,308_272204
+272205,Sign3 Labs,359,Gurgaon,Data Scientist,359_272205
+272208,Spacewell,369,Hyderabad,C++ Developer,369_272208
+272213,UniAcco,407,Mumbai,DevOps Engineer,407_272213
+272212,Vitech Systems Group,421,Hyderabad,Network Security Engineer - AWS,421_272212
+272197,1Bstories,3,Work From Home,Data Analyst,3_272197
+272198,Bullspree,72,Pune,Node.js Developer,72_272198
+272194,Bullspree,72,Pune,Senior Backend Engineer,72_272194
+272200,Clarivate Analytics,85,Bangalore,Senior Software Engineer - Fullstack Java+Angular,85_272200
+272185,goGlocal,159,Work From Home,Senior Backend Engineer,159_272185
+272196,HealthAsyst,172,Bangalore,Full Stack Developer,172_272196
+272192,Hiver,176,Bangalore,Engineering Manager,176_272192
+272184,insightsoftware,193,Hyderabad,"Senior Software Engineer .NET Fullstack, Angular",193_272184
+272189,Perennial Systems,303,Pune,Java Tech Lead,303_272189
+272195,SquadStack,375,"Bangalore, Mumbai, Noida",General Manager - Banking,375_272195
+272173,Nemetschek Group,275,Hyderabad,React Developer,275_272173
+272175,Purplle,324,Mumbai,Golang Developer,324_272175
+272170,Rattle,329,Bangalore,Strategy & Ops Associate,329_272170
+272169,Refactor Academy,331,"Bangalore, Hyderabad, Pune",Principal Data Scientist,331_272169
+272171,Reserve Bank Information Technology,336,Navi Mumbai,Data Engineer,336_272171
+272179,Skillovilla,364,Bangalore,Corporate Relationship Manager,364_272179
+272172,Skillovilla,364,Bangalore,Sales Executive,364_272172
+272177,SocialPilot,366,Ahmedabad,Copywriter,366_272177
+272178,WebMobril Technologies,430,Noida,Pre - Sales Executive / Lead Generation Executive,430_272178
+272162,Arzooo.com,41,Bangalore,Associate Director - Product Led Growth,41_272162
+272164,Arzooo.com,41,Bangalore,PMO - Senior Manager,41_272164
+272163,Critical Mass,106,Bangalore,Quality Control Specialist,106_272163
+272156,Diagnal Technologies,118,Trivandrum,Engineering Manager,118_272156
+272167,GMR Group,158,Gurgaon,Software Development Engineer,158_272167
+272160,Klimb.io,211,Delhi,HR Generalist,211_272160
+272168,Sagarsoft,348,"Bangalore, Hyderabad",Azure Cloudops Manager,348_272168
+272157,Tata Tele Business Services,387,Chennai,Product Sales Specialist,387_272157
+272158,Verdis.ai,416,Gurgaon,Senior Supply Chain Analyst - Automobile,416_272158
+272149,Agivant Technologies,21,Pune,GCP Data Architect,21_272149
+272144,BetterPlace,58,Bangalore,SDE 2 - Python Developer,58_272144
+272155,Corus Infotech,99,Kochi,Web Developer,99_272155
+272148,CYK Hospitalities,108,Gurgaon,Business Development Executive,108_272148
+272145,Illumine,185,Bangalore,Software Technical Lead,185_272145
+272146,JiyoFullest,202,Work From Home,Program Manager,202_272146
+272152,Lakeba Group,222,"Coimbatore, Work From Home",Software Enginner,222_272152
+272150,Planview,311,Bangalore,Senior / Lead Data Engineer,311_272150
+272151,RupiCard,344,Bangalore,Frontend Engineer,344_272151
+272147,Sourcy,368,Work From Home,Data Analyst,368_272147
+272140,CoreLogic,97,Noida,Dot .NET Developer,97_272140
+272138,FullThrottle Labs,154,"Bangalore, Chennai, Hyderabad",HR & Admin Executive,154_272138
+272131,Leucine,229,Bangalore,Senior React.js Developer,229_272131
+272136,MagickWoods,240,"Bangalore, Chennai",Head - Builder and Channel Sales,240_272136
+272141,Neokred,276,Bangalore,Regional Sales Manager,276_272141
+272134,NiYO Solutions,285,Bangalore,DevOps Engineer,285_272134
+272135,NiYO Solutions,285,Bangalore,DevOps Engineer,285_272135
+272137,NiYO Solutions,285,Bangalore,DevOps Engineer,285_272137
+272139,NiYO Solutions,285,Bangalore,SRE 3,285_272139
+272133,Symphony Talent,385,Noida,QA,385_272133
+272125,Chargeup,81,Gurgaon,Talent Acquisition Specialist,81_272125
+272122,Hitachi India,175,Bangalore,Sr. Backend Engineer - Java,175_272122
+272118,JFrog,199,Bangalore,Cloud Production Engineer,199_272118
+272120,Meta Z,254,Work From Home,Trading Bot Developer,254_272120
+272123,Miko,256,Mumbai,Sr. Java Developer,256_272123
+272129,Ola,291,Bangalore,Principal Architect,291_272129
+272128,Ola,291,Bangalore,Principal Architect,291_272128
+272116,Rakuten,328,Bangalore,Tech Lead,328_272116
+272130,Symphony Talent,385,Bangalore,QA,385_272130
+272119,Tredence Inc,404,Bangalore,GCP COE Lead,404_272119
+272106,Bullspree,72,Ahmedabad,Node.js Developer,72_272106
+272107,Bullspree,72,Ahmedabad,Senior Backend Engineer,72_272107
+272108,Bullspree,72,Ahmedabad,Senior Flutter Developer,72_272108
+272109,Bullspree,72,Ahmedabad,Technical Architect,72_272109
+272102,NiYO Solutions,285,Bangalore,Site Reliability Engineer,285_272102
+272115,Ola,291,Bangalore,Principal Architect,291_272115
+272113,TLC Relationship Management,400,Delhi,UI / UX Developer,400_272113
+272095,TLC Relationship Management,400,Delhi,UI Developer,400_272095
+272112,Tredence Inc,404,Bangalore,Databricks COE Lead,404_272112
+272105,Wipro,434,Hyderabad,Devop Architect,434_272105
+272085,ACS Solutions,13,Hyderabad,L2 Engineer,13_272085
+272083,Axis Mutual Fund,53,"Bangalore, Mumbai",Relationship Manager,53_272083
+272087,Beamer,56,Coimbatore,Customer Success Manager,56_272087
+272086,Beamer,56,Coimbatore,Customer Support Technical Manager,56_272086
+272088,Beamer,56,Coimbatore,Web Developer - Marketing,56_272088
+272082,MyMoney,267,Bangalore,Content Writer,267_272082
+272092,NiYO Solutions,285,Bangalore,DevOps Engineer,285_272092
+272084,Nykaa,290,Gurgaon,Staff Engineer,290_272084
+272090,ShareChat,354,Bangalore,Lead Machine Learning Engineer,354_272090
+272093,Symphony Talent,385,Bangalore,Associate Fullstack Developer - Java,385_272093
+272077,1Bstories,3,Work From Home,QA Specialist,3_272077
+272078,1Bstories,3,Work From Home,QA Specialist,3_272078
+272076,A Plus Topper,8,Bangalore,Business IT Solution,8_272076
+272070,Brandlabs,68,Pune,Search Engine Optimisation Executive,68_272070
+272075,Mercari,251,Bangalore,Software Engineer - Platform Engineering,251_272075
+272073,Microsoft Bing,255,Mumbai,Assistant Manager,255_272073
+272081,MyMoney,267,Bangalore,Graphic Designer,267_272081
+272071,NiYO Solutions,285,Bangalore,Site Reliability Engineer,285_272071
+272079,Paytm,301,Work From Home,Product Designer,301_272079
+272072,TLC Relationship Management,400,Delhi,UI Designer,400_272072
+272069,Accrete.AI,11,Mumbai,Data Engineer,11_272069
+272062,LTIMindtree,237,Bangalore,SAP OTC Vistex,237_272062
+272068,NiYO Solutions,285,Bangalore,DevOps Engineer,285_272068
+272059,NiYO Solutions,285,Bangalore,DevOps Engineer,285_272059
+272060,NiYO Solutions,285,Bangalore,DevOps Engineer,285_272060
+272063,NiYO Solutions,285,Bangalore,SRE,285_272063
+272058,Shiprocket,356,Gurgaon,Golang Developer,356_272058
+272065,Treflo,405,Bangalore,Finance Head - Virtual Digital Asset,405_272065
+272056,VMware,422,Bangalore,Staff Engineer / SMTS - C / C++,422_272056
+272051,1mg,4,Gurgaon,Program Manager,4_272051
+272045,AfterLife,20,Mumbai,Tech Lead Fullstack,20_272045
+272049,Etelligens Technologies,137,"Greater Noida, Noida",Sr. Java Developer,137_272049
+272052,Ideapoke,182,"Bangalore, Chennai, Hyderabad",Sr. React Developer,182_272052
+272048,inFeedo,189,Work From Home,Sr. Software Engineer - Backend,189_272048
+272055,MakeMyTrip,243,Bangalore,Sr. Principle / Principle Data Scientist,243_272055
+272044,Regalo Kitchens,333,Delhi,Business Development Executive,333_272044
+272050,Safegold,347,Mumbai,Software Engineer PHP / Laravel,347_272050
+272053,Surekha Technologies,381,Ahmedabad,Sr. Laravel Developer,381_272053
+272054,Viacom18,419,Bangalore,Release Engineer,419_272054
+272041,1mg,4,Gurgaon,Business Analyst,4_272041
+272033,Ascendion,42,Work From Home,Cyber Governance Risk Compliance Analyst,42_272033
+272040,Beyondsoft,59,Bangalore,Backend Engineer,59_272040
+272034,JioSaavn,201,Navi Mumbai,Engineering Manager - Backend,201_272034
+272039,NoBroker,286,Bangalore,Team Leader,286_272039
+272043,SignDesk,360,Bangalore,Technical Customer Support,360_272043
+272036,Syfe,383,Gurgaon,Director of Engineering,383_272036
+272037,Text Mercato,394,Bangalore,SDE 1 - SDE 2,394_272037
+272038,Urja Communications,413,Mumbai,Graphics Designer,413_272038
+272027,AfterLife,20,Mumbai,Product Development Engineer - Fullstack,20_272027
+272028,Awign,50,Pune,Vue.js Developer,50_272028
+272032,Baazi Games,54,Delhi,Frontend Engineering Manager - React.js,54_272032
+272031,Entri.app,131,Kochi,DSML Mentor,131_272031
+272026,Entri.app,131,Cochin,Freelance Python Trainer,131_272026
+272023,Happiest Minds Technologies,167,Bangalore,Wordpress Architect,167_272023
+272024,Happiest Minds Technologies,167,Bangalore,Wordpress Architect,167_272024
+272029,Lendingkart,227,Bangalore,Senior Product Manager,227_272029
+272022,Skillovilla,364,Bangalore,Team Leader,364_272022
+272030,Sloovi,365,Chennai,HR Recruiter,365_272030
+272016,Entri.app,131,Bangalore,DSML Mentor,131_272016
+272019,Foundation AI,150,Hyderabad,MLOps Engineer,150_272019
+272021,inai,188,Bangalore,Site Reliability Engineer,188_272021
+272013,InterviewVector,196,Gurgaon,Sales Manger,196_272013
+272012,Kapable,207,Delhi,Talent Acquisition Specialist,207_272012
+272017,Lendingkart,227,Bangalore,Engineering Manager,227_272017
+272014,Mercury Solutions Limited,252,Gurgaon,Sales Executive,252_272014
+272011,NextBillion AI,279,Work From Home,Junior Business Development Representative,279_272011
+272018,Regalo Kitchens,333,Delhi,Interior Designer,333_272018
+272000,App2food,38,Gurgaon,Full Stack Developer - PHP,38_272000
+272010,Bito,62,Work From Home,Backend Developer,62_272010
+272002,Blowhorn,64,Bangalore,Senior Marketing Manager,64_272002
+272001,Keka HR,208,Hyderabad,Wordpress Developer,208_272001
+272004,LenDenClub,226,Mumbai,Sr. Manager - Product Designer,226_272004
+272009,Mantra Labs,244,Bangalore,PHP Developer,244_272009
+272006,Medi Assist,248,Mumbai,Deputy Manager - Financial Planning and Analysis,248_272006
+272008,Piramal Capital & Housing Finance,309,Bangalore,DevOps Director,309_272008
+271999,Porter,314,Bangalore,Lead Business Analyst,314_271999
+272003,Ushur,414,Bangalore,Senior Software Engineer,414_272003
+271993,1Bstories,3,Work From Home,Frontend Designer,3_271993
+271997,Cholamandalam MS General Insurance,83,Chennai,Software Integration Developer,83_271997
+271998,Cornerstone OnDemand,98,Hyderabad,Associate Technical Consultant,98_271998
+271988,GoGroup,160,Noida,Senior Software Engineer,160_271988
+271992,Luganodes,238,Work From Home,Tech Laed,238_271992
+271986,Nadcab Labs,270,Allahabad,BDE - Inside Sales,270_271986
+271990,Rippling,340,Bangalore,Senior Software Engineer,340_271990
+271995,Vymo,423,Bangalore,Frontend Developer,423_271995
+271989,Vymo,423,Bangalore,Technical Lead - Backend,423_271989
+271991,Wissen Technology,436,Mumbai,Axiom Developer,436_271991
+271985,Amazon,30,Bangalore,UI & UX Designer,30_271985
+271977,Bizongo,63,Bangalore,Technical Implementation Specialist,63_271977
+271983,Druva,121,Pune,Engineering Manager,121_271983
+271981,Druva,121,Pune,Engineering Manager - Cloudapps,121_271981
+271979,Druva,121,Pune,Senior Staff Software Engineer M365,121_271979
+271984,Krones,219,Bangalore,Frontend Developer,219_271984
+271982,RupiCard,344,Bangalore,Moition Graphic Designer,344_271982
+271980,Terrascope,390,Work From Home,Senior Fullstack Developer,390_271980
+271978,Tredence Inc,404,Bangalore,Presales Solution Architect,404_271978
+271970,Addverb Technologies,16,Noida,AR / VR Developer,16_271970
+271969,Addverb Technologies,16,Noida,Game Developer,16_271969
+271964,Addverb Technologies,16,Noida,NLP / Conversational AI Engineer,16_271964
+271976,Druva,121,Pune,Senior Staff Software Engineer,121_271976
+271974,eShopbox,136,Pune,Software Development Engineer - 1,136_271974
+271971,Hub,180,Gurgaon,UX Designer,180_271971
+271967,Live Your Best Life,233,Noida,Product Manager,233_271967
+271965,NexTurn,281,Gurgaon,Oracle Financial Functional Consultant,281_271965
+271973,Techmaghi,388,Ernakulam,Senior Business Development Associate,388_271973
+271962,upGrad for Business,411,Gurgaon,B2B - Sales Executive,411_271962
+271958,13DesignStreet,2,Gurgaon,Customer Success Manager,2_271958
+271950,Cosmonet Solutions,100,Bangalore,.NET Developer,100_271950
+271960,Cosmonet Solutions,100,Bangalore,Angular With .NET - Full Stack Developer,100_271960
+271956,DealShare.in,113,Work From Home,Java Architect,113_271956
+271952,Encore Software Services,129,Chennai,ASP.NET Developer - Azure Lead,129_271952
+271951,Healthi,173,Bangalore,Office Administrator,173_271951
+271961,NexTurn,281,Gurgaon,Oracle Financial Technical Specialist,281_271961
+271955,Richpanel,339,Bangalore,Full Stack Developer,339_271955
+271953,Upstox,412,Mumbai,Product Manager 2,412_271953
+271949,Anudip Foundation,36,Kolkata,E - Learning Content Developer,36_271949
+271942,Druva,121,Pune,Staff & Sr. Staff Engineer,121_271942
+271939,Flash,146,Bangalore,Product Manager,146_271939
+271946,Masters' Union,246,Ludhiana,Sales Manager,246_271946
+271936,Ninja Van,283,Hyderabad,DevOps / Site Reliability Engineer,283_271936
+271938,Vymo,423,Bangalore,Technical Lead,423_271938
+271947,Wipro,434,Bangalore,Android Developer,434_271947
+271948,Wipro,434,Bangalore,Angular Developer,434_271948
+271945,Wipro,434,Bangalore,Drupal Developer,434_271945
+271944,Wipro,434,Bangalore,React / Node.js Developer,434_271944
+271933,Bullspree,72,Kolkata,Senior Backend Engineer,72_271933
+271934,Cholamandalam MS General Insurance,83,Chennai,Software Developer,83_271934
+271926,HDFC Bank,170,Chennai,Telecaller Executive,170_271926
+271927,Qikwork,326,Bangalore,Senior Fullstack Developer,326_271927
+271935,SBD Automotive,352,Bangalore,Research Analyst,352_271935
+271930,Suki,380,Bangalore,Senior Engineer C++ L4,380_271930
+271929,Viacom18,419,Bangalore,Security Engineer - SSE 1,419_271929
+271932,Vymo,423,Bangalore,SMTS - Backend Developer,423_271932
+271928,Vymo,423,Bangalore,Technical Lead,423_271928
+271925,ZopSmart Technology,443,Bangalore,Scrum Master,443_271925
+271915,Allen Career Institute,26,Bangalore,Staff Software Engineer,26_271915
+271913,Arintra,40,Bangalore,Fullstack EM,40_271913
+271920,Flatworld Solutions,147,Bangalore,Dotnet Developar,147_271920
+271917,Klimb.io,211,Mumbai,Scrum Master / Technical Program Manager,211_271917
+271909,Kofluence,215,Hyderabad,Senior DevOps Engineer,215_271909
+271921,Kutumb,220,Bangalore,Android Developer,220_271921
+271916,Perennial Systems,303,Pune,Lead Java Developer,303_271916
+271914,upGrad,410,Bangalore,Backend Developer,410_271914
+271911,Vymo,423,Bangalore,Senior Software Engineer - SMTS,423_271911
+271922,Vymo,423,Bangalore,SMTS,423_271922
+271903,91springboard,7,Bangalore,IoT Engineer,7_271903
+271900,Burosys Furniture,73,Mumbai,Business Development - VP Level,73_271900
+271904,Capri Global Capital,75,Delhi,Lead Legal - Gold Loans,75_271904
+271897,Capri Global Capital,75,Mumbai,Zonal HR Head,75_271897
+271899,EY,140,Delhi,Database Architect,140_271899
+271898,HealthAsyst,172,Bangalore,SQL Developer,172_271898
+271907,Kezan Consulting,209,Ahmedabad,Back Office Executive,209_271907
+271902,My Tirth India,265,Mumbai,CTO,265_271902
+271901,Shield,355,Bangalore,Machine Learning Engineer,355_271901
+271895,Walko Food,425,Pune,ERP Developer,425_271895
+271890,Accrete.AI,11,Mumbai,QA Engineer,11_271890
+271885,Applicate IT Solutions,39,Gurgaon,Motion Graphic Designer,39_271885
+271894,Eclat Engineering,124,Work From Home,Regional Sales Manager,124_271894
+271883,Entropik Technologies,132,Chennai,Senior Software Engineer,132_271883
+271882,InsourceIndia,194,Bangalore,Client Associate,194_271882
+271889,Intuit,197,Bangalore,SSE - Backend,197_271889
+271888,Kloudfuse,212,Work From Home,Senior Backend Engineer,212_271888
+271893,OpenGrowth,296,Work From Home,React Developer,296_271893
+271892,OpenGrowth,296,"Delhi, Gurgaon, Noida",Sales and Marketing Head,296_271892
+271891,Prodigal,321,Bangalore,Lead Platform Engineer,321_271891
+271871,Booming Bulls Academy,66,Gurgaon,Inside Sales Executive,66_271871
+271879,Emint,128,Bangalore,Sr. Frontend Developer,128_271879
+271870,Exeter Premedia Services,138,Chennai,Frontend Developer,138_271870
+271874,Komprise,216,Bangalore,Senior Backend Developer,216_271874
+271876,Only Much Louder,294,Mumbai,Manager - HR Operations & Administration,294_271876
+271872,Reliance Nippon Life Insurance,334,Mumbai,Taxation Manager,334_271872
+271875,SpurX,373,Pune,Chief Sale & Marketing Officer,373_271875
+271877,SpurX,373,Pune,Executive Business Development Sales & Marketing,373_271877
+271881,Squadcast,374,Work From Home,Site Reliability Engineer 3,374_271881
+271880,WidasConcepts India,432,Bangalore,Infrastructure Architect,432_271880
+271864,2Factor,5,Bangalore,DevOps Manager,5_271864
+271863,Avaamo,47,Work From Home,Fullstack Developer,47_271863
+271865,CoreLogic,97,Noida,Dot .NET Developer,97_271865
+271860,EY,140,Noida,Fullstack Developer - Java,140_271860
+271869,Flipkart,148,Bangalore,Software Development Engineer 2,148_271869
+271861,Horizon Broadband,178,Bangalore,QA Engineer,178_271861
+271867,MediBuddy,249,Bangalore,Engineering Manager,249_271867
+271868,SpurX,373,Pune,Manager Sales Marketing & Business Developer,373_271868
+271862,Viacom18,419,Bangalore,Web Developer Frontend,419_271862
+271859,Allen Career Institute,26,Bangalore,Staff Software Engineer,26_271859
+271856,CS Soft Solutions,107,Gurgaon,Lead Developer - Java Spring,107_271856
+271854,CS Soft Solutions,107,Bangalore,UI Developer,107_271854
+271853,Delhivery,114,Panaji,Customer Service Associate,114_271853
+271851,Dyte,122,Bangalore,Engineering Manager,122_271851
+271858,MagickWoods,240,Chennai,Business Analyst,240_271858
+271849,Teradata,389,"Bangalore, Mumbai, Pune",Teradata Developer,389_271849
+271850,Toddle,401,Work From Home,Fullstack Engineer 2Nd Shift,401_271850
+271841,Continual Engine,95,Work From Home,ML Engineer,95_271841
+271845,Financial Software And Systems,145,Bangalore,Switch Support Application,145_271845
+271847,Infogain,190,Bangalore,Oracle ATG Developer,190_271847
+271843,JFrog,199,Bangalore,Support Engineer,199_271843
+271842,Mercari,251,Bangalore,PHP Developer,251_271842
+271846,Saadia Group,346,Bangalore,Customer Service Executive,346_271846
+271848,Teradata,389,"Mumbai, Pune",Tableau Developer,389_271848
+271839,Zluri,442,Bangalore,Engineering Lead - Data Engineering,442_271839
+271832,DAZN,112,Hyderabad,Lead Automation Infra Engineer,112_271832
+271825,FalconX,142,Bangalore,Execution Trader,142_271825
+271826,FalconX,142,Bangalore,Trading Systems Engineer,142_271826
+271831,Flatworld Solutions,147,Bangalore,DOT .NET Developer - Angular,147_271831
+271833,Krones,219,Bangalore,SAPUI5 Consultant,219_271833
+271834,Only Much Louder,294,Bangalore,Sales Development Representative Saas Sales,294_271834
+271828,UnionSys Technologies,409,Bangalore,Fusion HCM Technical / Techno - Functional,409_271828
+271838,Verizon Communications,417,Bangalore,Senior Manager,417_271838
+271829,Vymo,423,Bangalore,Technical Lead,423_271829
+271830,Vymo,423,Bangalore,Technical Lead / Senior Software Engineer / Sde3,423_271830
+271820,Amantya Technologies,29,Bangalore,C++ Developer - Linux / Windows,29_271820
+271817,Amazon Devices,32,Bangalore,Quality Assurance Engineer,32_271817
+271824,Capri Global Capital,75,Mumbai,Zonal HR Lead,75_271824
+271816,HDFC ERGO,171,Mumbai,Head of Growth & Marketing,171_271816
+271822,msg global solutions,263,Bangalore,Senior Java Developer,263_271822
+271815,Reliance Nippon Life Insurance,334,Mumbai,Contracts and Billing Manager,334_271815
+271818,RxLogix,345,Noida,Tech Lead - Full Stack - Java Specialist,345_271818
+271823,Sciometrix,353,Work From Home,Software Engineer,353_271823
+271814,Simplilearn,362,Bangalore,Inside Sales Manager,362_271814
+271819,Viacom18,419,Bangalore,Web Developer,419_271819
+271813,Bajaj Finserv,55,Pune,Tech PMO,55_271813
+271804,Digit88 Technologies,119,Work From Home,Solutions Engineer - Senior Solution Delivery Lead,119_271804
+271799,Druva,121,Pune,Principal Engineer - DevOps,121_271799
+271803,FourthPointer Services,151,Noida,Angular Developer,151_271803
+271809,Komprise,216,Bangalore,SDET,216_271809
+271810,Komprise,216,Bangalore,Software Engineer,216_271810
+271797,Mynd Integrated Solutions,268,Gurgaon,Lease Accounting,268_271797
+271811,Zoronto,444,Bangalore,Creative Email Copywriter,444_271811
+271812,Zoronto,444,Bangalore,Success Manager,444_271812
+271795,Mphasis,261,Bangalore,Software Engineer,261_271795
+271796,Mphasis,261,Bangalore,Software Engineer,261_271796
+271789,Nagarro,271,Bangalore,Salesforce Marketing Cloud,271_271789
+271793,Saadia Group,346,Bangalore,Customer Support Service,346_271793
+271790,Saras Analytics,350,Hyderabad,Quality Assurance Engineer,350_271790
+271794,Toyota,402,Work From Home,Principal Engineer,402_271794
+271791,Tredence Inc,404,Bangalore,Data Science Manager,404_271791
+271780,Conviva,96,Bangalore,Associate Customer Support Engineer,96_271780
+271778,Happiest Minds Technologies,167,Bangalore,Senior Architect,167_271778
+271782,HomeCapital,177,Mumbai,Quality Analyst,177_271782
+271785,msg global solutions,263,Bangalore,DevOps Engineer,263_271785
+271786,Noodle.ai,287,Bangalore,Principal Product Strategist,287_271786
+271779,Thrasio,398,Work From Home,Senior Software Engineer,398_271779
+271781,Warpdrive Tech Works,426,Bangalore,Financial Accounts Specialist,426_271781
+271784,Wayfair,427,Bangalore,L4 / L3 - Back End Engineer - IC,427_271784
+271770,Bajaj Finserv,55,Pune,Technical Project Manager,55_271770
+271773,Creditas Solutions,102,Gurgaon,Front End Developer,102_271773
+271776,DriveU,120,Bangalore,React Native Engineer,120_271776
+271774,Grey Chain,164,"Delhi, Work From Home",Enterprise Sales Manager,164_271774
+271777,HealthAsyst,172,Bangalore,Software Engineer,172_271777
+271771,Perfora,304,Gurgaon,Global Sales Manager,304_271771
+271763,Akribiz Business Solutions,24,Noida,Field Sales Executive,24_271763
+271766,AlmaBetter,27,Bangalore,Finance Manager,27_271766
+271764,Augmento Labs,46,Bangalore,Support Engineer,46_271764
+271767,Learning Shala,224,Delhi,Business Development Executive,224_271767
+271765,LenDenClub,226,Mumbai,Tech Lead - Frontend Developer,226_271765
+271762,Neuronimbus Software Services,277,Gurgaon,Social Media Strategist,277_271762
+271769,Qikwork,326,Bangalore,Full Stack Developer,326_271769
+271755,Rubrik,343,Bangalore,Senior Technical Writer,343_271755
+271760,Simplotel,363,Bangalore,Marketing Manager,363_271760
+271756,Treflo,405,Bangalore,Engineering Lead - Blockchain,405_271756
+271742,A Society Consulting,9,Gurgaon,Business Development Executive,9_271742
+271749,Bristol Myers Squibb,70,Hyderabad,Data Engineer,70_271749
+271745,coMakeIT,91,Hyderabad,Azure Developer,91_271745
+271747,Fluxon,149,"Bangalore, Gurgaon, Hyderabad",Senior Software Engineer,149_271747
+271748,Goldcast,161,Work From Home,HR - Operations & Recruitment,161_271748
+271754,Hiver,176,"Bangalore, Work From Home",Account Manager,176_271754
+271746,Moback,259,Bangalore,Sr. QA Automation Engineer,259_271746
+271743,StatusNeo,377,Gurgaon,Artificial Intelligent,377_271743
+271735,Bito,62,Work From Home,SDET,62_271735
+271728,CloudThat,87,Pune,Senior Embedded Engineer,87_271728
+271741,InMobi,192,Bangalore,SDE I - Android,192_271741
+271736,Mercari,251,Bangalore,QA Engineer,251_271736
+271731,Nference Labs,282,Bangalore,Qt Developer,282_271731
+271733,Ola,291,Bangalore,Principal Engineer Maps / Data,291_271733
+271740,Recrosoft Technologies,330,Bangalore,Software Engineer,330_271740
+271734,Simplotel,363,Bangalore,Content Operations Specialist,363_271734
+271729,SquadStack,375,"Bangalore, Noida",Sr. Process Trainer,375_271729
+271721,Angel One,33,Work From Home,SDE2 / 3 - Android & Kotlin,33_271721
+271726,KnowledgeHut,213,Bangalore,Admission Counselor,213_271726
+271723,Mphasis,261,Bangalore,Java Developer,261_271723
+271724,Unified Infotech,408,Kolkata,PHP Developer - OpenCart,408_271724
+271712,Availity,48,Bangalore,Senior Software Engineer,48_271712
+271720,Digit88 Technologies,119,Pune,Technical Project Manager,119_271720
+271714,HCL Technologies,169,Bangalore,Angular Developer,169_271714
+271717,Kinara Capital,210,Bangalore,Principal Data Scientist,210_271717
+271719,Lal10,223,Noida,Engineering Manager,223_271719
+271718,Mirafra Technologies,258,Bangalore,Java Developer,258_271718
+271713,Simplotel,363,Bangalore,Senior Marketing Manager,363_271713
+271716,Wipro,434,Bangalore,Senior Staff Engineer,434_271716
+271704,Datawrkz,111,Bangalore,Business Development Representative,111_271704
+271708,Goldman Sachs,162,Hyderabad,Talent Acquisition,162_271708
+271711,IG,183,Bangalore,Java Developer - Hybrid Mode,183_271711
+271709,IG India,184,Bangalore,Senior Java Developer,184_271709
+271706,Kadel Labs,206,Udaipur,Technical / Product Support Engineer,206_271706
+271707,Proxgy,322,Bangalore,Technical Consultant,322_271707
+271703,StockGro,378,Bangalore,Golang Developer,378_271703
+271705,StockGro,378,Bangalore,QA Tester,378_271705
+271710,Transerve Technologies,403,Panaji,Backend Developer,403_271710
+271695,Allen Career Institute,26,Bangalore,Data Engineer,26_271695
+271693,DAZN,112,Hyderabad,Full Stack Engineer,112_271693
+271699,DAZN,112,Hyderabad,Lead Automation Infrastructure Engineer,112_271699
+271702,HCL Technologies,169,Bangalore,Cypress QA Engineer,169_271702
+271697,HCL Technologies,169,Bangalore,Salesforce Developer,169_271697
+271701,Trika Technologies,406,Bangalore,Test Engineer,406_271701
+271690,Vayavya Labs,415,Bangalore,ADAS Software Engineer,415_271690
+271689,HCL Technologies,169,Bangalore,Data Engineer,169_271689
+271679,LTIMindtree,237,Kolkata,Oracle Fusion PPM Consultant,237_271679
+271681,LTIMindtree,237,Kochi,Oracle Fusion PPM Consultant,237_271681
+271683,LTIMindtree,237,Nagpur,Oracle Fusion PPM Consultant,237_271683
+271685,LTIMindtree,237,Bhubaneshwar,Oracle Fusion PPM Consultant,237_271685
+271682,OpenGrowth,296,Work From Home,React Developer,296_271682
+271680,Spinny,370,Gurgaon,Data Scientist,370_271680
+271684,Visionet Systems,420,Bangalore,Performance Test Engineer,420_271684
+271687,Wildcraft,433,Bangalore,Franchise Development Manager,433_271687
+271678,Zymr,445,"Bangalore, Pune",Azure DevOps Engineer,445_271678
+271675,Atlassian,45,Work From Home,Lead Software Engineer,45_271675
+271670,LTIMindtree,237,Chennai,Ab Initio Metadata HUB,237_271670
+271674,LTIMindtree,237,Chennai,Oracle Fusion PPM Consultant,237_271674
+271669,Mahindra Logistics,242,Hyderabad,Asst Manager,242_271669
+271673,My Tirth India,265,Kolkata,Business Development Manager,265_271673
+271668,My Tirth India,265,Mumbai,Travel Operations,265_271668
+271676,OpenGrowth,296,"Greater Noida, Gurgaon, Noida",Sales and Marketing Head,296_271676
+271671,Vitech Systems Group,421,Hyderabad,AWS Network Engineer,421_271671
+271666,Inito,191,Bangalore,Computer Vision and NLP Engineer,191_271666
+271663,Live Your Best Life,233,Noida,Product Manager,233_271663
+271667,LTIMindtree,237,Bangalore,Ab Initio Metadata HUB,237_271667
+271661,LTIMindtree,237,Mumbai,Ab Initio Metadata HUB,237_271661
+271664,LTIMindtree,237,Pune,Ab Initio Metadata HUB,237_271664
+271662,Mahindra Logistics,242,Bangalore,Deputy. Manager HR,242_271662
+271655,My Tirth India,265,Mumbai,Business Development Manager,265_271655
+271659,PriceLabs,317,Work From Home,UI Engineer,317_271659
+271656,Testsigma,393,Bangalore,Account Executive / Sales,393_271656
+271658,Wayfair,427,Bangalore,Software Engineer II - L3,427_271658
+271654,CityFurnish,84,"Delhi, Gurgaon, Noida",Channel Sales Executive,84_271654
+271650,Foundation AI,150,Hyderabad,Lead Software Engineer,150_271650
+271651,GMR Group,158,Delhi,Frontend Developer,158_271651
+271653,Inito,191,Bangalore,Data Engineer AI / ML,191_271653
+271639,LTIMindtree,237,Pune,Oracle Fusion PPM Consultant,237_271639
+271646,LTIMindtree,237,Bangalore,Oracle Fusion PPM Consultant,237_271646
+271648,LTIMindtree,237,Hyderabad,Oracle Fusion PPM Consultant,237_271648
+271644,Mahindra Logistics,242,Mumbai,Corporate Booking Executive,242_271644
+271647,Niral Networks,284,Bangalore,Data Plane Engineer,284_271647
+271637,Colmore,90,Bangalore,Sales Admin,90_271637
+271634,Global Logics,157,Bangalore,Appian Developer,157_271634
+271638,HBK,168,Work From Home,SAP PP / QM Lead,168_271638
+271633,Lal10,223,Noida,Engineering Manager,223_271633
+271636,Simpl,361,Bangalore,Data Engineer,361_271636
+271635,Upstox,412,Mumbai,Senior Product Manager,412_271635
+271631,Upstox,412,Mumbai,Software Development Engineer - II / III Frontend,412_271631
+271630,Aasaanjobs,10,Bangalore,Marketing Coordinator,10_271630
+271620,Altimetrik,28,Work From Home,Visualization Engineer,28_271620
+271622,FieldAssist,144,Gurgaon,Flutter Developer,144_271622
+271626,Learning Shala,224,Delhi,Senior Business Development Associate,224_271626
+271629,LTIMindtree,237,Mumbai,Oracle Fusion PPM Consultant,237_271629
+271625,Merkle Science,253,Bangalore,Backend Engineer,253_271625
+271627,OptIQ.AI,297,Bangalore,Content Writer,297_271627
+271624,Paypal,300,Bangalore,Full - Stack Engineer,300_271624
+271619,Plateron,312,Chennai,Mobility Architect - Frontend,312_271619
+271615,Bullspree,72,Chandigarh,Senior Backend Engineer,72_271615
+271607,Digit88 Technologies,119,Pune,SDE - III - Java,119_271607
+271613,LTIMindtree,237,Chennai,Business Analyst - Capital Market - Loans,237_271613
+271609,LTIMindtree,237,Pune,Specialist - Business Analyst - Capital Market,237_271609
+271610,LTIMindtree,237,Mumbai,Specialist - Business Analyst - Capital Market,237_271610
+271611,LTIMindtree,237,Hyderabad,Specialist - Business Analyst - Capital Market,237_271611
+271614,LTIMindtree,237,Bangalore,Specialist - Business Analyst - Capital Market,237_271614
+271617,Mphasis,261,Bangalore,DevOps Engineer,261_271617
+271612,Ola Electric Mobility,292,Bangalore,Senior Engineering Manager,292_271612
+271601,Ajirasoft,22,Chennai,Software Engineer,22_271601
+271606,Eli Lilly,126,Bangalore,Generative AI Data Scientist,126_271606
+271597,LTIMindtree,237,Kolkata,Azure Data Engineer,237_271597
+271599,LTIMindtree,237,Kochi,Azure Data Engineer,237_271599
+271600,LTIMindtree,237,Delhi,Azure Data Engineer,237_271600
+271598,Open Financial Technologies,295,Bangalore,Senior Copywriter,295_271598
+271603,ResMed,337,Bangalore,Senior Ionic Engineer,337_271603
+271584,DAZN,112,Hyderabad,QA Lead,112_271584
+271588,E2open,123,Bangalore,Big Data Engineer,123_271588
+271594,FullThrottle Labs,154,Bangalore,Retail Sales Executive,154_271594
+271586,LTIMindtree,237,Mumbai,Azure Data Engineer,237_271586
+271590,LTIMindtree,237,Pune,Azure Data Engineer,237_271590
+271591,LTIMindtree,237,Bangalore,Azure Data Engineer,237_271591
+271593,LTIMindtree,237,Chennai,Azure Data Engineer,237_271593
+271595,LTIMindtree,237,Hyderabad,Azure Data Engineer,237_271595
+271582,Delhivery,114,Gurgaon,Technical Lead - Python,114_271582
+271580,GyanDhan,165,Chandigarh,Field Sales Executive,165_271580
+271576,JP Morgan,204,Bangalore,Python Developer,204_271576
+271573,Memorang Labs,250,Work From Home,Senior Frontend Engineer React / Native,250_271573
+271583,msg global solutions,263,Bangalore,Senior Java Developer,263_271583
+271571,ResMed,337,Bangalore,Engineering Manager - Java,337_271571
+271577,Sprinklr,372,Gurgaon,Platinum Support Account Manager - Tech Support,372_271577
+271570,The Strategists,395,Delhi,Account Director - Client Servicing,395_271570
+271574,Wipro,434,Bangalore,Full Stack& Java Developer / Lead,434_271574
+271560,73 Strings,6,Bangalore,CISO Chief Information Security Officer,6_271560
+271565,Beamer,56,Coimbatore,HR Manager,56_271565
+271563,CreditVidya,104,Chennai,Automation QA Engineer,104_271563
+271561,LTIMindtree,237,Mumbai,Azure Cloud Developer ADF+ Azure Functions+ Pytho,237_271561
+271562,LTIMindtree,237,Pune,Azure Cloud Developer ADF+ Azure Functions+ Pytho,237_271562
+271557,MyBillBook (FloBiz),266,Bangalore,Data Scientist,266_271557
+271564,Paypal,300,Bangalore,Data Scientist - Fraud and Risk,300_271564
+271569,Thrillophilia,399,"Delhi, Jaipur",Senior Software Developer,399_271569
+271559,Thrillophilia,399,Jaipur,Senior Software Developer RoR,399_271559
+271555,ZopSmart Technology,443,Bangalore,Technical Scrum Master,443_271555
+271552,AdGlobal360,17,Work From Home,Frontend Developer,17_271552
+271545,Agivant Technologies,21,Pune,Full Stack .NET Developer,21_271545
+271548,CS Soft Solutions,107,Work From Home,AWS Data Engineer / Architect,107_271548
+271549,CS Soft Solutions,107,Work From Home,Lead Data Engineer,107_271549
+271550,Ergode,135,Mumbai,Executive - Customer Service,135_271550
+271546,LTIMindtree,237,Kolkata,Data Science Professional,237_271546
+271547,LTIMindtree,237,Delhi,Data Science Professional,237_271547
+271538,Avataar,49,Bangalore,Engineering Manager - Frontend,49_271538
+271543,insightsoftware,193,"Bangalore, Hyderabad",Technical Consultant / Sr. Technical Consultant,193_271543
+271537,Jify,200,Bangalore,VP of Sales,200_271537
+271536,LTIMindtree,237,Mumbai,Data Science Professional,237_271536
+271544,LTIMindtree,237,Hyderabad,Data Science Professional,237_271544
+271540,LTIMindtree,237,Pune,Data Science Professional,237_271540
+271541,LTIMindtree,237,Bangalore,Data Science Professional,237_271541
+271542,LTIMindtree,237,Chennai,Data Science Professional,237_271542
+271539,Lumen Technologies,239,Chennai,SAP Retail Consultant,239_271539
+271534,RenewBuy,335,Mumbai,Technical Architect,335_271534
+271528,Cleartrip,86,Bangalore,Software Development Engineer 2,86_271528
+271527,Gooey.AI,163,Work From Home,Senior Software Engineer,163_271527
+271531,Mumbai Coworking,264,Mumbai,HR Recruiter,264_271531
+271533,Sagarsoft,348,Hyderabad,Java JavaScript Angular,348_271533
+271526,Shipyaari,357,Mumbai,Sales Manager,357_271526
+271512,Adobe,18,"Delhi, Gurgaon, Noida",Cloud Deployment Engineer,18_271512
+271510,LTIMindtree,237,Bangalore,"Fusion SCM, Cloud SCM, SaaS SCM, Planning",237_271510
+271513,LTIMindtree,237,Bangalore,Fusion WMS - Oracle Cloud Procurement Consultant,237_271513
+271520,LTIMindtree,237,Pune,Snowflake+ ETL Or SQL,237_271520
+271515,LTIMindtree,237,Chennai,Snowflake+ ETL Or SQL,237_271515
+271516,LTIMindtree,237,Bangalore,Snowflake+ ETL Or SQL,237_271516
+271517,LTIMindtree,237,Hyderabad,Snowflake+ ETL Or SQL,237_271517
+271518,LTIMindtree,237,Mumbai,Snowflake+ ETL Or SQL,237_271518
+271511,Viacom18,419,Bangalore,Software Developer,419_271511
+271519,Yash Technologies,438,Bangalore,UiPath Process Mining Specialist,438_271519
+271509,Atlassian,45,Work From Home,Site Reliability Engineer,45_271509
+271505,Fairmatic,141,Bangalore,Senior Software Engineer 3,141_271505
+271508,Fairmatic,141,Bangalore,SRE 3,141_271508
+271497,InsourceIndia,194,Bangalore,Team Lead - Recruitment,194_271497
+271500,Market Pulse Technologies,245,Work From Home,Android Developer,245_271500
+271506,Preqin,316,Bangalore,Team Leader - Data Control,316_271506
+271499,Refyne,332,Bangalore,Automation Engineer,332_271499
+271507,RenewBuy,335,Gurgaon,Technical Architect,335_271507
+271498,Zenda,439,Bangalore,Payment Manager,439_271498
+271492,Agivant Technologies,21,Hyderabad,Dialogflow BOT Developer,21_271492
+271490,CloudThat,87,Pune,Dot .NET Developer,87_271490
+271494,GMR Group,158,Gurgaon,Key Accounts Manager,158_271494
+271491,HDFC ERGO,171,Mumbai,Design Lead,171_271491
+271487,Insurance Regulatory and Development Authority of India,195,Hyderabad,SQL Analyst,195_271487
+271488,Lendingkart,227,Bangalore,Senior SDET,227_271488
+271495,Market Pulse Technologies,245,Mumbai,Executive Assistant,245_271495
+271493,Patch Infotech,299,Gurgaon,Node.js Developer + React Architect,299_271493
+271486,ZopSmart Technology,443,Bangalore,Scrum Master,443_271486
+271484,Cavli Wireless,79,Kochi,Sr. Associate - Digital Marketing,79_271484
+271479,CreditVidya,104,Hyderabad,Data Analytics,104_271479
+271477,Delphix,116,Work From Home,Python Experts Cloud - Ssdeii / III,116_271477
+271482,EY,140,Bangalore,Anaplan Consultant,140_271482
+271481,Keka HR,208,Hyderabad,Wordpress Developer,208_271481
+271485,Preqin,316,Bangalore,Team Leader - Data Control,316_271485
+271476,Tesco,391,Bangalore,Software Development Engineer 3,391_271476
+271483,Webelight Solutions,428,Ahmedabad,Software Developer Laravel+Php+Vuejs,428_271483
+271464,Bobble AI,65,Gurgaon,Senior Serverside Engineer - Ad Server,65_271464
+271468,Chargeup,81,Mathura,Channel Sales Lead,81_271468
+271467,Lendingkart,227,Bangalore,SDET,227_271467
+271465,Planview,311,Bangalore,SDET,311_271465
+271470,Rizzle,341,Hyderabad,Quality Testing Engineer,341_271470
+271469,Squadcast,374,Bangalore,Full Stack Developer,374_271469
+271472,Squadcast,374,Bangalore,Full Stack Developer - Java,374_271472
+271466,WebKorps,429,Indore,Lead Technical Recruiter,429_271466
+271457,Adagrad AI,14,Work From Home,Fullstack,14_271457
+271454,Aerchain,19,Work From Home,Fullstack Develoer,19_271454
+271455,Assembly Travel,44,Gurgaon,Junior Accountant,44_271455
+271458,Cosmonet Solutions,100,Chennai,C# WPF Developer,100_271458
+271462,Emint,128,Bangalore,Senior DevOps Engineer,128_271462
+271460,Only Much Louder,294,Mumbai,Campaign Lead,294_271460
+271463,Planview,311,Bangalore,DevOps Engineer,311_271463
+271456,PriceLabs,317,Work From Home,Lead Data Scientist,317_271456
+271459,Pure Storage,323,Bangalore,Senior Salesforce Developer,323_271459
+271461,SignDesk,360,Bangalore,Business Development Manager,360_271461
+271452,Asentech,43,Work From Home,Wordpress Developer,43_271452
+271446,Fello,143,Bangalore,MERN Full Stack Developer,143_271446
+271445,GMR Group,158,Delhi,Backend Developer,158_271445
+271448,Mirafra Technologies,258,Bangalore,Full Stack Developer,258_271448
+271453,SoftGetix,367,Indore,Digital Marketing Officer,367_271453
+271444,Thrillophilia,399,"Chennai, Hyderabad",Software Engineer,399_271444
+271447,Vitech Systems Group,421,Hyderabad,AWS Network Engineer,421_271447
+271449,Wishlink,435,Gurgaon,Product Designer,435_271449
+271439,Cars24,78,"Bangalore, Gurgaon",Tech Lead,78_271439
+271443,Confluent,94,Work From Home,Business Systems Analyst - Subscription and Billing,94_271443
+271437,CYK Hospitalities,108,Gurgaon,Business Development Executive,108_271437
+271440,GMR Group,158,Delhi,Backend Developer,158_271440
+271442,Mahindra Group,241,Mumbai,Telesales Executive,241_271442
+271436,Plivo,313,Bangalore,Business Analyst,313_271436
+271441,Prime Consulting,318,Hyderabad,Embedded AUTOSAR Developer,318_271441
+271438,Ziroh Labs,441,Bangalore,Data Scientist,441_271438
+271424,EY,140,Jaipur,Flutter Developer,140_271424
+271434,GMR Group,158,Gurgaon,Software Development Engineer - III,158_271434
+271432,Kutumb,220,Bangalore,QA Engineer,220_271432
+271435,Kutumb,220,Bangalore,SDE 2 Android Developer,220_271435
+271421,Leucine,229,Bangalore,React Developer,229_271421
+271423,Livekeeping,234,Hyderabad,Quality Auditor,234_271423
+271433,NextGen Workforce,280,Work From Home,Software Product Marketing Manager,280_271433
+271431,PhonePe,306,Bangalore,Backend Developer - Phonepe,306_271431
+271430,Swimlane,382,Hyderabad,Network Engineer Cloud,382_271430
+271408,Amazon,30,Hyderabad,Support Engineer,30_271408
+271414,Booming Bulls Academy,66,Noida,Presales Executive,66_271414
+271419,CommerceIQ,92,Chennai,SDET 3,92_271419
+271416,Engineering Square,130,Hyderabad,Frontend Developer,130_271416
+271415,EY,140,Jaipur,Fullstack Developer - Java,140_271415
+271406,Hitachi India,175,Gurgaon,Sr. Backend Engineer - Java0,175_271406

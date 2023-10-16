@@ -1,0 +1,446 @@
+company_id,company_name,estab_year,employees_count
+1,12th Wonder,2012,50 - 200 employees
+2,13DesignStreet,2012,10 - 50 employees
+3,1Bstories,2021,10 - 50 employees
+4,1mg,2015,500 - 1000 employees
+5,2Factor,2015,0 - 10 employees
+6,73 Strings,2019,10 - 50 employees
+7,91springboard,2012,50 - 200 employees
+8,A Plus Topper,2017,0 - 10 employees
+9,A Society Consulting,2017,10 - 50 employees
+10,Aasaanjobs,2014,200 - 500 employees
+11,Accrete.AI,2017,10 - 50 employees
+12,Acheron Software Consultancy,2012,50 - 200 employees
+13,ACS Solutions,1998,More than 1000 employees
+14,Adagrad AI,2018,10 - 50 employees
+15,Adaptive,1994,10 - 50 employees
+16,Addverb Technologies,2016,50 - 200 employees
+17,AdGlobal360,2009,50 - 200 employees
+18,Adobe,1982,More than 1000 employees
+19,Aerchain,2016,10 - 50 employees
+20,AfterLife,2021,0 - 10 employees
+21,Agivant Technologies,2023,10 - 50 employees
+22,Ajirasoft,2015,10 - 50 employees
+23,Akamai,1998,500 - 1000 employees
+24,Akribiz Business Solutions,1997,50 - 200 employees
+25,AlgoShack,2018,200 - 500 employees
+26,Allen Career Institute,1988,More than 1000 employees
+27,AlmaBetter,2020,10 - 50 employees
+28,Altimetrik,2012,More than 1000 employees
+29,Amantya Technologies,2018,200 - 500 employees
+30,Amazon,1994,More than 1000 employees
+31,Amazon Ads,2010,More than 1000 employees
+32,Amazon Devices,1994,More than 1000 employees
+33,Angel One,1987,More than 1000 employees
+34,Annalect,2010,More than 1000 employees
+35,Antier Solutions,2003,500 - 1000 employees
+36,Anudip Foundation,2007,200 - 500 employees
+37,ANZ Bank,1900,More than 1000 employees
+38,App2food,2014,10 - 50 employees
+39,Applicate IT Solutions,2014,50 - 200 employees
+40,Arintra,2020,10 - 50 employees
+41,Arzooo.com,2018,500 - 1000 employees
+42,Ascendion,2022,More than 1000 employees
+43,Asentech,2007,50 - 200 employees
+44,Assembly Travel,2018,10 - 50 employees
+45,Atlassian,2002,More than 1000 employees
+46,Augmento Labs,2019,10 - 50 employees
+47,Avaamo,2014,50 - 200 employees
+48,Availity,2001,500 - 1000 employees
+49,Avataar,2014,200 - 500 employees
+50,Awign,2016,200 - 500 employees
+51,AXA,1995,More than 1000 employees
+52,Axis Bank,1994,More than 1000 employees
+53,Axis Mutual Fund,2009,500 - 1000 employees
+54,Baazi Games,2014,200 - 500 employees
+55,Bajaj Finserv,2007,More than 1000 employees
+56,Beamer,2017,10 - 50 employees
+57,Beta Makers Lab,2020,10 - 50 employees
+58,BetterPlace,2015,500 - 1000 employees
+59,Beyondsoft,1995,More than 1000 employees
+60,Bhash Software Labs,2009,50 - 200 employees
+61,Bidgely,2010,200 - 500 employees
+62,Bito,2021,10 - 50 employees
+63,Bizongo,2014,200 - 500 employees
+64,Blowhorn,2014,200 - 500 employees
+65,Bobble AI,2015,10 - 50 employees
+66,Booming Bulls Academy,2019,50 - 200 employees
+67,Bosch India,1922,More than 1000 employees
+68,Brandlabs,2020,0 - 10 employees
+69,Bright Money,2019,50 - 200 employees
+70,Bristol Myers Squibb,1887,More than 1000 employees
+71,Bullsmart,2022,10 - 50 employees
+72,Bullspree,2020,10 - 50 employees
+73,Burosys Furniture,2004,10 - 50 employees
+74,Capgemini,1967,More than 1000 employees
+75,Capri Global Capital,1997,500 - 1000 employees
+76,CarDekho,2008,More than 1000 employees
+77,Carnera Technologies,2018,50 - 200 employees
+78,Cars24,2015,More than 1000 employees
+79,Cavli Wireless,2016,50 - 200 employees
+80,Censius AI,2020,0 - 10 employees
+81,Chargeup,2019,10 - 50 employees
+82,CHEManager,1992,200 - 500 employees
+83,Cholamandalam MS General Insurance,2001,500 - 1000 employees
+84,CityFurnish,2015,50 - 200 employees
+85,Clarivate Analytics,2016,More than 1000 employees
+86,Cleartrip,2006,500 - 1000 employees
+87,CloudThat,2012,200 - 500 employees
+88,Codemonk,2018,10 - 50 employees
+89,Cogoport,2016,200 - 500 employees
+90,Colmore,2017,50 - 200 employees
+91,coMakeIT,2006,200 - 500 employees
+92,CommerceIQ,2012,200 - 500 employees
+93,Concentrix,1983,More than 1000 employees
+94,Confluent,2014,More than 1000 employees
+95,Continual Engine,2017,50 - 200 employees
+96,Conviva,2006,200 - 500 employees
+97,CoreLogic,2010,More than 1000 employees
+98,Cornerstone OnDemand,1999,More than 1000 employees
+99,Corus Infotech,2016,10 - 50 employees
+100,Cosmonet Solutions,1998,50 - 200 employees
+101,Credit Repair Cloud,2002,
+102,Creditas Solutions,2017,50 - 200 employees
+103,Creditnama,2023,10 - 50 employees
+104,CreditVidya,2013,50 - 200 employees
+105,Creta Class,2022,50 - 200 employees
+106,Critical Mass,1996,More than 1000 employees
+107,CS Soft Solutions,2009,200 - 500 employees
+108,CYK Hospitalities,2019,10 - 50 employees
+109,D-Techworks,2022,200 - 500 employees
+110,D. E. Shaw,1988,More than 1000 employees
+111,Datawrkz,2013,10 - 50 employees
+112,DAZN,2007,More than 1000 employees
+113,DealShare.in,2018,500 - 1000 employees
+114,Delhivery,2011,More than 1000 employees
+115,Deloitte,1845,More than 1000 employees
+116,Delphix,2008,500 - 1000 employees
+117,Deutsche Bank,1900,More than 1000 employees
+118,Diagnal Technologies,2015,50 - 200 employees
+119,Digit88 Technologies,2014,50 - 200 employees
+120,DriveU,2015,10 - 50 employees
+121,Druva,2008,500 - 1000 employees
+122,Dyte,2020,50 - 200 employees
+123,E2open,2000,More than 1000 employees
+124,Eclat Engineering,2013,10 - 50 employees
+125,Eightfold AI,2016,200 - 500 employees
+126,Eli Lilly,1876,More than 1000 employees
+127,Elogix Software,2002,
+128,Emint,2022,0 - 10 employees
+129,Encore Software Services,1998,200 - 500 employees
+130,Engineering Square,2019,50 - 200 employees
+131,Entri.app,2015,50 - 200 employees
+132,Entropik Technologies,2016,50 - 200 employees
+133,epiFi,2019,50 - 200 employees
+134,Epsilon,2015,More than 1000 employees
+135,Ergode,2010,50 - 200 employees
+136,eShopbox,2012,50 - 200 employees
+137,Etelligens Technologies,2015,50 - 200 employees
+138,Exeter Premedia Services,2004,50 - 200 employees
+139,Expleo Group,1966,More than 1000 employees
+140,EY,1989,More than 1000 employees
+141,Fairmatic,2019,50 - 200 employees
+142,FalconX,2018,50 - 200 employees
+143,Fello,2020,0 - 10 employees
+144,FieldAssist,2014,50 - 200 employees
+145,Financial Software And Systems,1991,More than 1000 employees
+146,Flash,2022,10 - 50 employees
+147,Flatworld Solutions,2002,More than 1000 employees
+148,Flipkart,2007,More than 1000 employees
+149,Fluxon,2017,50 - 200 employees
+150,Foundation AI,2018,10 - 50 employees
+151,FourthPointer Services,2012,50 - 200 employees
+152,Freshworks,2010,More than 1000 employees
+153,Fuel Marcom,2011,10 - 50 employees
+154,FullThrottle Labs,2018,0 - 10 employees
+155,Gallagher and Mohan,2018,50 - 200 employees
+156,GIST,2011,10 - 50 employees
+157,Global Logics,2014,0 - 10 employees
+158,GMR Group,1900,500 - 1000 employees
+159,goGlocal,2021,10 - 50 employees
+160,GoGroup,2019,50 - 200 employees
+161,Goldcast,2020,0 - 10 employees
+162,Goldman Sachs,1869,More than 1000 employees
+163,Gooey.AI,2022,0 - 10 employees
+164,Grey Chain,2016,50 - 200 employees
+165,GyanDhan,2015,10 - 50 employees
+166,Happay,2012,200 - 500 employees
+167,Happiest Minds Technologies,2011,More than 1000 employees
+168,HBK,2019,More than 1000 employees
+169,HCL Technologies,1976,More than 1000 employees
+170,HDFC Bank,1994,More than 1000 employees
+171,HDFC ERGO,2002,More than 1000 employees
+172,HealthAsyst,1999,200 - 500 employees
+173,Healthi,2014,10 - 50 employees
+174,Hettich India,2001,200 - 500 employees
+175,Hitachi India,1930,More than 1000 employees
+176,Hiver,2011,50 - 200 employees
+177,HomeCapital,2017,10 - 50 employees
+178,Horizon Broadband,2018,10 - 50 employees
+179,Hotstar,2015,500 - 1000 employees
+180,Hub,2021,50 - 200 employees
+181,ideaForge,2007,
+182,Ideapoke,2012,10 - 50 employees
+183,IG,1998,More than 1000 employees
+184,IG India,2004,50 - 200 employees
+185,Illumine,2017,10 - 50 employees
+186,Impact Analytics,2015,50 - 200 employees
+187,iMumz,2019,0 - 10 employees
+188,inai,2021,10 - 50 employees
+189,inFeedo,2016,50 - 200 employees
+190,Infogain,1990,More than 1000 employees
+191,Inito,2014,10 - 50 employees
+192,InMobi,2007,More than 1000 employees
+193,insightsoftware,2018,More than 1000 employees
+194,InsourceIndia,2019,0 - 10 employees
+195,Insurance Regulatory and Development Authority of India,1999,200 - 500 employees
+196,InterviewVector,2020,10 - 50 employees
+197,Intuit,1983,More than 1000 employees
+198,Jar,2020,50 - 200 employees
+199,JFrog,2008,500 - 1000 employees
+200,Jify,2021,50 - 200 employees
+201,JioSaavn,2007,50 - 200 employees
+202,JiyoFullest,2017,0 - 10 employees
+203,Joveo,2016,50 - 200 employees
+204,JP Morgan,1900,More than 1000 employees
+205,Jupiter,2019,50 - 200 employees
+206,Kadel Labs,2017,50 - 200 employees
+207,Kapable,2019,10 - 50 employees
+208,Keka HR,2016,50 - 200 employees
+209,Kezan Consulting,2022,10 - 50 employees
+210,Kinara Capital,2011,500 - 1000 employees
+211,Klimb.io,2015,10 - 50 employees
+212,Kloudfuse,2020,10 - 50 employees
+213,KnowledgeHut,2011,200 - 500 employees
+214,Koantek,2020,10 - 50 employees
+215,Kofluence,2019,10 - 50 employees
+216,Komprise,2014,10 - 50 employees
+217,Kotak Mahindra Bank,1985,More than 1000 employees
+218,Kripya Solutions,2006,
+219,Krones,1951,More than 1000 employees
+220,Kutumb,2020,50 - 200 employees
+221,Kyndryl,2021,More than 1000 employees
+222,Lakeba Group,2013,50 - 200 employees
+223,Lal10,2015,10 - 50 employees
+224,Learning Shala,2018,50 - 200 employees
+225,Leena AI,2015,200 - 500 employees
+226,LenDenClub,2014,10 - 50 employees
+227,Lendingkart,2014,200 - 500 employees
+228,Lets Influence,2018,10 - 50 employees
+229,Leucine,2017,10 - 50 employees
+230,Licious,2015,More than 1000 employees
+231,Light & Wonder,2004,More than 1000 employees
+232,LinkedIn,2002,More than 1000 employees
+233,Live Your Best Life,2022,50 - 200 employees
+234,Livekeeping,2015,50 - 200 employees
+235,Lokal,2018,50 - 200 employees
+236,Loop Kitchen,2022,0 - 10 employees
+237,LTIMindtree,1996,More than 1000 employees
+238,Luganodes,2022,10 - 50 employees
+239,Lumen Technologies,1968,More than 1000 employees
+240,MagickWoods,1993,More than 1000 employees
+241,Mahindra Group,1945,More than 1000 employees
+242,Mahindra Logistics,2007,More than 1000 employees
+243,MakeMyTrip,2000,More than 1000 employees
+244,Mantra Labs,2009,50 - 200 employees
+245,Market Pulse Technologies,2015,10 - 50 employees
+246,Masters' Union,2020,10 - 50 employees
+247,Max Life Insurance,2000,More than 1000 employees
+248,Medi Assist,2002,More than 1000 employees
+249,MediBuddy,2013,More than 1000 employees
+250,Memorang Labs,2020,10 - 50 employees
+251,Mercari,2013,500 - 1000 employees
+252,Mercury Solutions Limited,2000,50 - 200 employees
+253,Merkle Science,2018,10 - 50 employees
+254,Meta Z,2021,10 - 50 employees
+255,Microsoft Bing,2009,200 - 500 employees
+256,Miko,2015,50 - 200 employees
+257,MindTickle,2012,200 - 500 employees
+258,Mirafra Technologies,2004,More than 1000 employees
+259,Moback,2011,50 - 200 employees
+260,ModMed,2010,More than 1000 employees
+261,Mphasis,1998,More than 1000 employees
+262,mPokket,2016,More than 1000 employees
+263,msg global solutions,2008,500 - 1000 employees
+264,Mumbai Coworking,2015,50 - 200 employees
+265,My Tirth India,2023,10 - 50 employees
+266,MyBillBook (FloBiz),2019,200 - 500 employees
+267,MyMoney,2022,0 - 10 employees
+268,Mynd Integrated Solutions,2002,500 - 1000 employees
+269,myTVS Accessories,2011,50 - 200 employees
+270,Nadcab Labs,2015,50 - 200 employees
+271,Nagarro,1996,More than 1000 employees
+272,Nanonets,2016,10 - 50 employees
+273,Navi Technologies,2019,50 - 200 employees
+274,Nelito,1995,More than 1000 employees
+275,Nemetschek Group,1963,More than 1000 employees
+276,Neokred,2019,10 - 50 employees
+277,Neuronimbus Software Services,2004,50 - 200 employees
+278,New Street Technologies,2017,10 - 50 employees
+279,NextBillion AI,2019,10 - 50 employees
+280,NextGen Workforce,2008,10 - 50 employees
+281,NexTurn,2021,50 - 200 employees
+282,Nference Labs,2015,10 - 50 employees
+283,Ninja Van,2014,More than 1000 employees
+284,Niral Networks,2019,0 - 10 employees
+285,NiYO Solutions,2015,200 - 500 employees
+286,NoBroker,2014,More than 1000 employees
+287,Noodle.ai,2016,200 - 500 employees
+288,Numadic,2016,50 - 200 employees
+289,NxtWave,2020,More than 1000 employees
+290,Nykaa,2012,200 - 500 employees
+291,Ola,2011,More than 1000 employees
+292,Ola Electric Mobility,2017,500 - 1000 employees
+293,Oliver Wyman,1984,More than 1000 employees
+294,Only Much Louder,2001,50 - 200 employees
+295,Open Financial Technologies,2017,200 - 500 employees
+296,OpenGrowth,2018,0 - 10 employees
+297,OptIQ.AI,2021,0 - 10 employees
+298,Optum,2010,
+299,Patch Infotech,2016,50 - 200 employees
+300,Paypal,1998,More than 1000 employees
+301,Paytm,2000,More than 1000 employees
+302,PeakAlpha Investment Services,2005,10 - 50 employees
+303,Perennial Systems,2006,200 - 500 employees
+304,Perfora,2021,10 - 50 employees
+305,Pesto Tech,2017,10 - 50 employees
+306,PhonePe,2015,More than 1000 employees
+307,PhysicsWallah,2014,More than 1000 employees
+308,Pibit.ai,2020,10 - 50 employees
+309,Piramal Capital & Housing Finance,2017,10 - 50 employees
+310,PixelPhant,2016,10 - 50 employees
+311,Planview,1989,500 - 1000 employees
+312,Plateron,2021,0 - 10 employees
+313,Plivo,2011,50 - 200 employees
+314,Porter,2014,500 - 1000 employees
+315,Powerplay,2020,50 - 200 employees
+316,Preqin,2003,200 - 500 employees
+317,PriceLabs,2014,10 - 50 employees
+318,Prime Consulting,2015,10 - 50 employees
+319,Prishusoft,2012,10 - 50 employees
+320,Probe CX,1979,More than 1000 employees
+321,Prodigal,2018,10 - 50 employees
+322,Proxgy,2020,10 - 50 employees
+323,Pure Storage,2009,More than 1000 employees
+324,Purplle,2012,200 - 500 employees
+325,Purview,2010,More than 1000 employees
+326,Qikwork,2020,10 - 50 employees
+327,Quick Visa Solutions,2015,10 - 50 employees
+328,Rakuten,1997,More than 1000 employees
+329,Rattle,2020,10 - 50 employees
+330,Recrosoft Technologies,2012,200 - 500 employees
+331,Refactor Academy,2022,10 - 50 employees
+332,Refyne,2020,10 - 50 employees
+333,Regalo Kitchens,2008,200 - 500 employees
+334,Reliance Nippon Life Insurance,2000,More than 1000 employees
+335,RenewBuy,2015,200 - 500 employees
+336,Reserve Bank Information Technology,2016,50 - 200 employees
+337,ResMed,1989,More than 1000 employees
+338,Revlitix,2022,0 - 10 employees
+339,Richpanel,2018,10 - 50 employees
+340,Rippling,2016,More than 1000 employees
+341,Rizzle,2017,50 - 200 employees
+342,RSPL,1987,More than 1000 employees
+343,Rubrik,2015,500 - 1000 employees
+344,RupiCard,2022,0 - 10 employees
+345,RxLogix,2010,50 - 200 employees
+346,Saadia Group,2021,More than 1000 employees
+347,Safegold,2017,10 - 50 employees
+348,Sagarsoft,1996,200 - 500 employees
+349,SandV Capitals,2020,0 - 10 employees
+350,Saras Analytics,2016,10 - 50 employees
+351,Savari,2008,
+352,SBD Automotive,1997,50 - 200 employees
+353,Sciometrix,2016,50 - 200 employees
+354,ShareChat,2015,500 - 1000 employees
+355,Shield,2008,50 - 200 employees
+356,Shiprocket,2012,500 - 1000 employees
+357,Shipyaari,2013,50 - 200 employees
+358,ShopSe,2019,50 - 200 employees
+359,Sign3 Labs,2021,0 - 10 employees
+360,SignDesk,2016,200 - 500 employees
+361,Simpl,2015,500 - 1000 employees
+362,Simplilearn,2009,More than 1000 employees
+363,Simplotel,2013,10 - 50 employees
+364,Skillovilla,2020,50 - 200 employees
+365,Sloovi,2013,50 - 200 employees
+366,SocialPilot,2014,10 - 50 employees
+367,SoftGetix,2010,10 - 50 employees
+368,Sourcy,2021,0 - 10 employees
+369,Spacewell,1989,200 - 500 employees
+370,Spinny,2015,500 - 1000 employees
+371,SpotOn,2017,More than 1000 employees
+372,Sprinklr,2009,More than 1000 employees
+373,SpurX,2017,10 - 50 employees
+374,Squadcast,2017,10 - 50 employees
+375,SquadStack,2014,50 - 200 employees
+376,Squarepoint Capital,2014,50 - 200 employees
+377,StatusNeo,2019,10 - 50 employees
+378,StockGro,2020,10 - 50 employees
+379,Strata,2019,10 - 50 employees
+380,Suki,2017,10 - 50 employees
+381,Surekha Technologies,2011,50 - 200 employees
+382,Swimlane,2014,200 - 500 employees
+383,Syfe,2018,50 - 200 employees
+384,SyManSys Technologies India,2013,50 - 200 employees
+385,Symphony Talent,2016,200 - 500 employees
+386,Synergy Softwares,1993,50 - 200 employees
+387,Tata Tele Business Services,1996,More than 1000 employees
+388,Techmaghi,2021,10 - 50 employees
+389,Teradata,1980,More than 1000 employees
+390,Terrascope,2022,50 - 200 employees
+391,Tesco,2004,More than 1000 employees
+392,Tessell,2021,10 - 50 employees
+393,Testsigma,2017,10 - 50 employees
+394,Text Mercato,2015,10 - 50 employees
+395,The Strategists,2019,10 - 50 employees
+396,Third Wave Coffee,2016,More than 1000 employees
+397,THOUGHTi,2010,10 - 50 employees
+398,Thrasio,2018,More than 1000 employees
+399,Thrillophilia,2010,500 - 1000 employees
+400,TLC Relationship Management,2002,500 - 1000 employees
+401,Toddle,2019,50 - 200 employees
+402,Toyota,1937,More than 1000 employees
+403,Transerve Technologies,2009,10 - 50 employees
+404,Tredence Inc,2013,500 - 1000 employees
+405,Treflo,2019,10 - 50 employees
+406,Trika Technologies,2019,50 - 200 employees
+407,UniAcco,2019,200 - 500 employees
+408,Unified Infotech,2010,50 - 200 employees
+409,UnionSys Technologies,2008,50 - 200 employees
+410,upGrad,2015,50 - 200 employees
+411,upGrad for Business,2008,50 - 200 employees
+412,Upstox,2010,200 - 500 employees
+413,Urja Communications,1986,50 - 200 employees
+414,Ushur,2014,50 - 200 employees
+415,Vayavya Labs,2006,50 - 200 employees
+416,Verdis.ai,2015,10 - 50 employees
+417,Verizon Communications,1983,More than 1000 employees
+418,VFI SLK,2019,500 - 1000 employees
+419,Viacom18,2007,More than 1000 employees
+420,Visionet Systems,1995,500 - 1000 employees
+421,Vitech Systems Group,1986,More than 1000 employees
+422,VMware,1998,More than 1000 employees
+423,Vymo,2013,50 - 200 employees
+424,Wakefit,2014,50 - 200 employees
+425,Walko Food,2012,500 - 1000 employees
+426,Warpdrive Tech Works,2016,50 - 200 employees
+427,Wayfair,2002,More than 1000 employees
+428,Webelight Solutions,2014,50 - 200 employees
+429,WebKorps,2017,200 - 500 employees
+430,WebMobril Technologies,2014,50 - 200 employees
+431,Wecraft Interactive Solutions,2016,10 - 50 employees
+432,WidasConcepts India,2015,50 - 200 employees
+433,Wildcraft,1998,More than 1000 employees
+434,Wipro,1945,More than 1000 employees
+435,Wishlink,2022,10 - 50 employees
+436,Wissen Technology,1997,200 - 500 employees
+437,World Compliance Technologies,2011,50 - 200 employees
+438,Yash Technologies,1996,More than 1000 employees
+439,Zenda,2021,10 - 50 employees
+440,Zetwerk,2017,More than 1000 employees
+441,Ziroh Labs,2016,0 - 10 employees
+442,Zluri,2020,0 - 10 employees
+443,ZopSmart Technology,2016,50 - 200 employees
+444,Zoronto,2016,10 - 50 employees
+445,Zymr,2012,200 - 500 employees
